@@ -1,7 +1,7 @@
 #Random popups
 pushisback.com
 
-#Ads
+#Ads and scripts
 adserver.adtechus.com
 adserver-us.adtech.advertising.com
 resources.infolinks.com
@@ -31,6 +31,10 @@ insight.adsrvr.org
 secure.adnxs.com
 sb.scorecardresearch.com
 ads.servebom.com
+icrosoft.stream1.fyre.co
+as-sec.casalemedia.com
+b.ifmnwi.club
+education.pentontechnology.com
 
 #Crypto miners
 coinhive.com
