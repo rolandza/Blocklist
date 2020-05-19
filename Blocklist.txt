@@ -2,6 +2,7 @@
 pushisback.com
 theonecdn.com
 push.aarth.net
+iqoption.com
 
 #Ads and scripts
 adserver.adtechus.com
