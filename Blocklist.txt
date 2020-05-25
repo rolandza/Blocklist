@@ -1,53 +1,53 @@
 #Random popups
-pushisback.com
-theonecdn.com
-push.aarth.net
-iqoption.com
+0.0.0.0		pushisback.com
+0.0.0.0		theonecdn.com
+0.0.0.0		push.aarth.net
+0.0.0.0		iqoption.com
 
 #Ads and scripts
-adserver.adtechus.com
-adserver-us.adtech.advertising.com
-resources.infolinks.com
-router.infolinks.com
-securepubads.g.doubleclick.net
-adclick.g.doubleclick.net
-googleads.g.doubleclick.net
-pagead1.googlesyndication.com
-pagead2.googlesyndication.com
-tpc.googlesyndication.com
-k.intellitxt.com
-secure-us.imrworldwide.com
-us-ems1.myfortinet.com
-btlr.sharethrough.com
-headlines.sharethrough.com
-mstr.sharethrough.com
-support.sharethrough.com
-sfp.sharethrough.com
-cdnx.tribalfusion.com
-connatix.com
-core.connatix.com
-v.connatix.com
-secure-ds.serving-sys.com
-api.rlcdn.com
-gklfs-x8k98.ads.tremorhub.com
-insight.adsrvr.org
-secure.adnxs.com
-sb.scorecardresearch.com
-ads.servebom.com
-icrosoft.stream1.fyre.co
-as-sec.casalemedia.com
-b.ifmnwi.club
-education.pentontechnology.com
+0.0.0.0		adserver.adtechus.com
+0.0.0.0		adserver-us.adtech.advertising.com
+0.0.0.0		resources.infolinks.com
+0.0.0.0		router.infolinks.com
+0.0.0.0		securepubads.g.doubleclick.net
+0.0.0.0		adclick.g.doubleclick.net
+0.0.0.0		googleads.g.doubleclick.net
+0.0.0.0		pagead1.googlesyndication.com
+0.0.0.0		pagead2.googlesyndication.com
+0.0.0.0		tpc.googlesyndication.com
+0.0.0.0		k.intellitxt.com
+0.0.0.0		secure-us.imrworldwide.com
+0.0.0.0		us-ems1.myfortinet.com
+0.0.0.0		btlr.sharethrough.com
+0.0.0.0		headlines.sharethrough.com
+0.0.0.0		mstr.sharethrough.com
+0.0.0.0		support.sharethrough.com
+0.0.0.0		sfp.sharethrough.com
+0.0.0.0		cdnx.tribalfusion.com
+0.0.0.0		connatix.com
+0.0.0.0		core.connatix.com
+0.0.0.0		v.connatix.com
+0.0.0.0		secure-ds.serving-sys.com
+0.0.0.0		api.rlcdn.com
+0.0.0.0		gklfs-x8k98.ads.tremorhub.com
+0.0.0.0		insight.adsrvr.org
+0.0.0.0		secure.adnxs.com
+0.0.0.0		sb.scorecardresearch.com
+0.0.0.0		ads.servebom.com
+0.0.0.0		icrosoft.stream1.fyre.co
+0.0.0.0		as-sec.casalemedia.com
+0.0.0.0		b.ifmnwi.club
+0.0.0.0		education.pentontechnology.com
 
 #Crypto miners
-coinhive.com
-ws008.coinhive.com
-ws009.coinhive.com
-ws012.coinhive.com
-ws011.coinhive.com
-ws013.coinhive.com
-ws014.coinhive.com
-ws030.coinhive.com
-coinnebula.com
-crypto-loot.com
-xmr.pool.minergate.com
+0.0.0.0		coinhive.com
+0.0.0.0		ws008.coinhive.com
+0.0.0.0		ws009.coinhive.com
+0.0.0.0		ws012.coinhive.com
+0.0.0.0		ws011.coinhive.com
+0.0.0.0		ws013.coinhive.com
+0.0.0.0		ws014.coinhive.com
+0.0.0.0		ws030.coinhive.com
+0.0.0.0		coinnebula.com
+0.0.0.0		crypto-loot.com
+0.0.0.0		xmr.pool.minergate.com
