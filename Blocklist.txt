@@ -1,3 +1,7 @@
+# Ad filter list by Roland
+# License: Private
+# Contact: na
+
 #Random popups
 0.0.0.0		pushisback.com
 0.0.0.0		theonecdn.com
