@@ -2,13 +2,7 @@
 # License: Private
 # Contact: na
 
-#Random popups
-0.0.0.0		pushisback.com
-0.0.0.0		theonecdn.com
-0.0.0.0		push.aarth.net
-0.0.0.0		iqoption.com
-
-#Ads and scripts
+#Ads / scripts / popups
 0.0.0.0		adserver.adtechus.com
 0.0.0.0		adserver-us.adtech.advertising.com
 0.0.0.0		resources.infolinks.com
@@ -42,6 +36,11 @@
 0.0.0.0		as-sec.casalemedia.com
 0.0.0.0		b.ifmnwi.club
 0.0.0.0		education.pentontechnology.com
+0.0.0.0   xml.realtime-bid.com
+0.0.0.0		pushisback.com
+0.0.0.0		theonecdn.com
+0.0.0.0		push.aarth.net
+0.0.0.0		iqoption.com
 
 #Crypto miners
 0.0.0.0		coinhive.com
