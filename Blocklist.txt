@@ -36,7 +36,7 @@
 0.0.0.0		as-sec.casalemedia.com
 0.0.0.0		b.ifmnwi.club
 0.0.0.0		education.pentontechnology.com
-0.0.0.0   xml.realtime-bid.com
+0.0.0.0		xml.realtime-bid.com
 0.0.0.0		pushisback.com
 0.0.0.0		theonecdn.com
 0.0.0.0		push.aarth.net
