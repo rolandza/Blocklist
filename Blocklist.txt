@@ -43,6 +43,7 @@
 0.0.0.0		theonecdn.com
 0.0.0.0		push.aarth.net
 0.0.0.0		iqoption.com
+0.0.0.0		www.thefxtips.club
 
 #Crypto miners
 0.0.0.0		coinhive.com
