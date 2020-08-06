@@ -44,6 +44,8 @@
 0.0.0.0		push.aarth.net
 0.0.0.0		iqoption.com
 0.0.0.0		www.thefxtips.club
+0.0.0.0		www.jackpotoffer24.com
+0.0.0.0		acscdn.com
 
 #Crypto miners
 0.0.0.0		coinhive.com
