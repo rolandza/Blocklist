@@ -51,6 +51,7 @@
 0.0.0.0		notification.tubecup.net
 0.0.0.0		sw.wpu.sh
 0.0.0.0		ufpcdn.com
+0.0.0.0		topblockchainsolutions.nl
 
 #Crypto miners
 0.0.0.0		coinhive.com
