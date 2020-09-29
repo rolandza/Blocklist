@@ -47,6 +47,7 @@
 0.0.0.0		www.jackpotoffer24.com
 0.0.0.0		achcdn.com
 0.0.0.0		acscdn.com
+0.0.0.0		ashcdn.com
 0.0.0.0		notification.tubecup.net
 0.0.0.0		sw.wpu.sh
 0.0.0.0		ufpcdn.com
