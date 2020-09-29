@@ -52,6 +52,7 @@
 0.0.0.0		sw.wpu.sh
 0.0.0.0		ufpcdn.com
 0.0.0.0		topblockchainsolutions.nl
+0.0.0.0		kiolim.com
 
 #Crypto miners
 0.0.0.0		coinhive.com
