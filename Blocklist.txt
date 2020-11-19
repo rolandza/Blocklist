@@ -54,6 +54,7 @@
 0.0.0.0		topblockchainsolutions.nl
 0.0.0.0		kiolim.com
 0.0.0.0		cdn.playwire.com
+0.0.0.0		cdn.video.playwire.com
 
 #Crypto miners
 0.0.0.0		coinhive.com
