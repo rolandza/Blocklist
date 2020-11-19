@@ -56,6 +56,7 @@
 0.0.0.0		cdn.playwire.com
 0.0.0.0		cdn.video.playwire.com
 0.0.0.0		config.playwire.com
+0.0.0.0		cdn.intergient.com
 
 #Crypto miners
 0.0.0.0		coinhive.com
