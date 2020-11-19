@@ -55,6 +55,7 @@
 0.0.0.0		kiolim.com
 0.0.0.0		cdn.playwire.com
 0.0.0.0		cdn.video.playwire.com
+0.0.0.0		config.playwire.com
 
 #Crypto miners
 0.0.0.0		coinhive.com
