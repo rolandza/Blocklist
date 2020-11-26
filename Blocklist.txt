@@ -58,6 +58,13 @@
 0.0.0.0		config.playwire.com
 0.0.0.0		cdn.intergient.com
 0.0.0.0		ice.360yield.com
+0.0.0.0		s0.2mdn.net
+0.0.0.0		mb.moatads.com
+0.0.0.0		X
+0.0.0.0		X
+0.0.0.0		X
+0.0.0.0		X
+0.0.0.0		X
 
 #Crypto miners
 0.0.0.0		coinhive.com
