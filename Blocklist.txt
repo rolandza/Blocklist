@@ -69,6 +69,11 @@
 0.0.0.0		X
 0.0.0.0		X
 
+#1337
+0.0.0.0  net.geo.opera.com
+0.0.0.0  new.betway.co.za
+0.0.0.0  register.hollywoodbets.net
+
 #Crypto miners
 0.0.0.0		coinhive.com
 0.0.0.0		ws008.coinhive.com
@@ -81,3 +86,4 @@
 0.0.0.0		coinnebula.com
 0.0.0.0		crypto-loot.com
 0.0.0.0		xmr.pool.minergate.com
+
