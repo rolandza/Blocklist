@@ -63,6 +63,7 @@
 0.0.0.0		assets.vlitag.com
 0.0.0.0		logs.vlitag.com
 0.0.0.0		live.primis.tech
+0.0.0.0		publift.com
 
 #1337
 0.0.0.0		net.geo.opera.com
@@ -81,4 +82,5 @@
 0.0.0.0		coinnebula.com
 0.0.0.0		crypto-loot.com
 0.0.0.0		xmr.pool.minergate.com
+
 
