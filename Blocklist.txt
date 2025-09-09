@@ -62,11 +62,12 @@
 0.0.0.0		mb.moatads.com
 0.0.0.0		assets.vlitag.com
 0.0.0.0		logs.vlitag.com
+0.0.0.0		live.primis.tech
 
 #1337
-0.0.0.0  net.geo.opera.com
-0.0.0.0  new.betway.co.za
-0.0.0.0  register.hollywoodbets.net
+0.0.0.0		net.geo.opera.com
+0.0.0.0		new.betway.co.za
+0.0.0.0		register.hollywoodbets.net
 
 #Crypto miners
 0.0.0.0		coinhive.com
@@ -80,3 +81,4 @@
 0.0.0.0		coinnebula.com
 0.0.0.0		crypto-loot.com
 0.0.0.0		xmr.pool.minergate.com
+
