@@ -67,6 +67,7 @@
 
 #1337
 0.0.0.0		net.geo.opera.com
+0.0.0.0		www.betway.co.za
 0.0.0.0		new.betway.co.za
 0.0.0.0		register.hollywoodbets.net
 0.0.0.0		opera.com
